@@ -2,6 +2,8 @@
 
 Welcome to **IsometKit**, a Blender add-on for easily distributing and managing isometric assets! Designed to streamline your 3D workflow, IsometKit lets you effortlessly create beautiful isometric rooms and quickly populate them with objects right from the Blender viewport.
 
+<img width="1080" height="1080" alt="render" src="https://github.com/user-attachments/assets/818c24df-96c1-4850-a8ac-b8fc68107070" />
+
 ## Features
 
 - **Asset Loader & Browser:** Seamlessly drag-and-drop or click to place assets from various categories (Furniture, Tech, Plants, Props).
